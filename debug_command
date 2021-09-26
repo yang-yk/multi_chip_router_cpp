@@ -1,0 +1,2 @@
+./simulation_run ./SA_core_placement_dict/cur_core_placement_12.json ./SA_core_placement_dict/cur_core_placement_result12.json
+
